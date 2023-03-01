@@ -1,7 +1,36 @@
-- 👋 Hi, I’m Alejandro Perez Aranda (@alejandroperez9)
-- I'm from Jaen, Andalucia, Spain.
-- Now, I'm studying a higher degree in Telecomunications systems and computer systems.
-- 👀 I’m interested in activities and applications field of telecomunications, home automation, as well as aeronautics, and civil and military system.
-  I'm keen on the development of device and elements that allow you to have acces to greater ease of use for the human being.
-  Moreover arduino system and IoT tecnology.
-- 📫 How to reach me on this email: alejandroperezaranda99@gmail.com
+# Hi there, I´m Alejandro.
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://mobile.twitter.com/aleperezaranda)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/aleejandropeerez/?hl=es)
+[![GitHub Follower](https://img.shields.io/github/followers/alejandroperez9?style=social)](https://github.com/Thaiane)
+
+I´m from Jaen, south of Spain.
+
+Now, I am studying a higher degree in telecomunications and computer systems.
+
+I'm keen on the development of device and elements that allow you to have acces to greater ease of use for the human being.
+Moreover arduino system and IoT tecnology.
+
+# 
+##### ✉CONTACT: alejandroperezaranda99@gmail.com
+#
+
+### <img src="https://media.tenor.com/aGwCdl0YdAMAAAAi/astronauta-moon.gif" width="50"> A little more about me...  
+
+
+
+```javascript
+const Alejandro = {
+  pronouns: "He" | "His",
+     code: [C, C++, Javascript, Python, Java, Markdown, HTML],
+         tools: [Node, VSC],
+
+    challenge: "Make a hundred repositories after finishing 2023."
+}
+```
+#
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alejandroperez9&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroperez9&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
