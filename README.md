@@ -1,6 +1,6 @@
 <img style="margin-top: 40px;" align="right" width="200px" src="https://pa1.narvii.com/8003/38e590c0c65b23b251787da09169d3fcb20157ddr1-500-526_hq.gif">
 
-# Hi there, I´m Alejandro.
+# Hi there, I´m Alejandro. :wave:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://mobile.twitter.com/aleperezaranda)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/aleejandropeerez/?hl=es)
@@ -14,7 +14,7 @@ I'm keen on the development of device and elements that allow you to have acces 
 Moreover arduino system and IoT tecnology.
 
 # 
-##### ✉CONTACT: alejandroperezaranda99@gmail.com
+##### CONTACT: alejandroperezaranda99@gmail.com
 #
 
 ### <img src="https://media.tenor.com/aGwCdl0YdAMAAAAi/astronauta-moon.gif" width="50"> A little more about me...  
