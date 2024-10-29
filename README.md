@@ -8,7 +8,7 @@
 
 I´m from Jaen, south of Spain.
 
-Now, I am studying a higher degree in telecomunications and computer systems.
+Now, I am a senior technician in telecommunications and computer systems, with honors in said studies.
 
 I'm keen on the development of device and elements that allow you to have acces to greater ease of use for the human being.
 Moreover arduino system and IoT tecnology.
